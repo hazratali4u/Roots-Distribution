@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SNAccountHead>
+
+  <Purchase>1211</Purchase> <!-- DR -->
+  <FaheemQureshiCapital>598</FaheemQureshiCapital>
+  <DamageStock>1015</DamageStock>
+  <StockInWay>1016</StockInWay>  
+  <ShortOrAccessStock>1212</ShortOrAccessStock>
+  <CostOfGoodsSold>897</CostOfGoodsSold>
+  <SundryDebtors>715</SundryDebtors>
+  <DiscountAllowed>1138</DiscountAllowed>
+  <CreditSales>901</CreditSales>
+  <CounterSale>107</CounterSale>  
+  <CashSales>1068</CashSales>
+  <CashInHand>751</CashInHand>
+    
+</SNAccountHead>

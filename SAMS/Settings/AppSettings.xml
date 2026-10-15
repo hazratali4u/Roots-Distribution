@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  
+  <!--<Server>DESKTOP-DQB0974</Server>
+  <DBName>Qureshi</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+  
+  <!--<Server>66.70.233.176</Server>
+  <DBName>TempRoots</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast4444</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+
+
+  <!--<Server>sams.faastdemo.com</Server>
+  <DBName>Qureshi</DBName>
+  <DBUser>Builds</DBUser>
+  <DBPassword>PakistanisLove</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+  
+
+  <Server>samsl.faastdemo.com</Server>
+  <DBName>ElahiTraders</DBName>
+  <DBUser>app</DBUser>
+  <DBPassword>Fast12341234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+  
+</AppSettings>
